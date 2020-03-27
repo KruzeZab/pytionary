@@ -1,4 +1,4 @@
-Pytionary - A cool dictionary module for python to get meanings, pos, synonyms, antonyms of the given word. <br /> 
+Pytionary - A cool lightweight dictionary module for python to get meanings, pos, synonyms, antonyms of the given word. <br /> 
 It uses requests and BeautifulSoup as dependencies.
 <h3>Installation</h3>
 The easiest way to install is through pip:
